@@ -1,0 +1,99 @@
+#myNavbar{
+  font-size:25px;
+}
+nav{
+  padding:5px;
+}
+.navbar-brand{
+  font-size:30px;
+}
+body{
+  margin-top:60px;
+    
+}
+.bg-1{
+    color:green;
+    background-color:#ADD8E6;
+    height: 600px;
+    background-attachment: fixed;
+}
+img{
+    margin-top: 80px;
+}
+.bg-2{  
+    height:600px;
+    background-attachment: fixed;
+}
+.bg-3{background-attachment: fixed;}
+.bg-4{background-attachment: fixed;}
+.bg-5{background-attachment: fixed;}
+h2{
+    font-size:42px;
+}
+#about-para{
+    font-size: 26px;
+}
+.container,.jumbotron{
+    margin-bottom:10px;
+    padding:0px;
+}
+
+.bg-6{
+    height:600px;
+    background-attachment: fixed;
+}
+.fa-item{
+    border-right:1px solid rgba(0,0,0,0.2);
+    padding:15px;
+}
+.btn{
+    border:1px solid rgba(0,0,0,0.2);
+    padding:0px 10px;
+    margin:6px 12px;
+    font-size:26px;
+    text-align: center;
+}
+.text{
+    padding:10px 20px;
+    margin-bottom:10px;
+}
+.in-wrap{
+    color: #007bb6;
+    background-color: white;
+}
+.in-wrap:hover,.in-wrap:active,.in-wrap:focus{    
+    color: white;
+    background-color: #007bb6;
+}
+.git-wrap{
+    color: #444;
+    background-color: white;
+}
+.git-wrap:hover,.git-wrap:active,.git-wrap:focus{
+    color:white;
+    background-color: #444;
+}
+.fb-wrap{
+    color: #3b5998;
+    background-color: white;
+}
+.fb-wrap:hover,.fb-wrap:active,.fb-wrap:focus{
+    color:white;
+    background-color: #3b5998;
+}
+.tw-wrap{
+    color: #55acee;
+    background-color: white;
+}
+.tw-wrap:hover,.tw-wrap:active,.tw-wrap:focus{
+    color:white;
+    background-color: #55acee;
+}
+.g-wrap{
+    color:#dd4b39;
+    background-color: white;
+}
+.g-wrap:hover,.g-wrap:active,.g-wrap:focus{
+    color:white;
+    background-color:#dd4b39;
+}
