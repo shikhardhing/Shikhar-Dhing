@@ -1,8 +1,5 @@
-#myNavbar{
-  font-size:25px;
-}
-nav{
-  padding:5px;
+.navbar{
+    font-size:22px;
 }
 .navbar-brand{
   font-size:30px;
